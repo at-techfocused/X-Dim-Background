@@ -3,7 +3,7 @@
   "name": "X Dim Background",
   "version": "1.3.0",
   "description": "Restores the Dim (dark blue) background to X/Twitter.",
-  "homepage_url": "https://github.com/TechFocused/x-dim-background",
+  "homepage_url": "https://github.com/TechFocused/X-Dim-Background",
   "permissions": ["storage"],
   "content_scripts": [
     {
