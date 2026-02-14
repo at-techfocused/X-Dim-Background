@@ -27,7 +27,8 @@ This extension brings it back.
 ## Install
 
 ### Chrome Web Store
-> Coming soon — pending review.
+
+~[X Dim Background](https://chromewebstore.google.com/detail/x-dim-background/magcnmkpeiocbpddiambhgbdpbfiefek)
 
 ### Manual Install
 
